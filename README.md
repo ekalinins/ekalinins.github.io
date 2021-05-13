@@ -4,3 +4,5 @@ This landingpage was created for selling heart rate pulsometers. The project was
 ![](src/img/puslemain.PNG)
 
 https://ekalinins.github.io/heart-rate-monitor/dist/
+
+[Check it out](https://ekalinins.github.io/heart-rate-monitor/dist/)
